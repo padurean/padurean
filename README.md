@@ -18,6 +18,6 @@ Here are some ideas to get you started:
 
 I am [Valentin Padurean](https://purecore.ro) (nicknamed "Ogg") from Brasov, Romania.
 
-I am currently working as a Go developer on [immudb](https://github.com/codenotary/immudb) - a lightweight, high-speed immutable database for systems and applications.
+I am currently working as a [Go](https://golang.org) developer on [immudb](https://github.com/codenotary/immudb) - a lightweight, high-speed immutable database for systems and applications.
 
 ![image](https://github.com/padurean/padurean/blob/master/golang.gif)
