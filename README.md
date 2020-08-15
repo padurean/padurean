@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+
 <!--
 **padurean/padurean** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +15,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I am [Valentin Padurean](https://purecore.ro) (nicknamed "Ogg") from Brasov, Romania.
+
+I am currently working as a Go developer on [immudb](https://github.com/codenotary/immudb) - a lightweight, high-speed immutable database for systems and applications.
+
+![image](https://github.com/padurean/padurean/blob/master/golang.gif)
