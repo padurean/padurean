@@ -20,6 +20,6 @@ I am [Valentin Padurean](https://purecore.ro) (nicknamed "Ogg") from Brasov, Rom
 
 I am currently working as a [Go](https://golang.org) developer on:
 - [x] [immudb](https://github.com/codenotary/immudb) - a lightweight, high-speed immutable database for systems and applications
-- [x] [CodeNotary Ledger Compliance®](https://codenotary.com) - an easy to use tamperproof ledger with cryptographic verification, processing millions of transactions a second on-premise or in the cloud
+- [x] [CodeNotary Immutable Ledgers®](https://codenotary.com) - an easy to use tamperproof ledger with cryptographic verification, processing millions of transactions a second on-premise or in the cloud
 
 ![image](https://github.com/padurean/padurean/blob/master/golang.gif)
