@@ -22,4 +22,7 @@ I am currently working as a [Go](https://golang.org) developer on:
 - [x] [immudb](https://github.com/codenotary/immudb) - a lightweight, high-speed immutable database for systems and applications
 - [x] [CodeNotary Immutable Ledgers®](https://codenotary.com) - an easy to use tamperproof ledger with cryptographic verification, processing millions of transactions a second on-premise or in the cloud
 
-![image](https://github.com/padurean/padurean/blob/master/golang.gif)
+|   |   |   
+|---|---|
+| ![Valentin "Ogg" Padurean writing Go code and weaving](https://github.com/padurean/padurean/blob/master/golang.gif) | ![A Go dev team in a retro science office](https://github.com/padurean/padurean/blob/master/golang_team_retro_office.jpeg) |
+|   |   |
