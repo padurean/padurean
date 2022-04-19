@@ -19,8 +19,8 @@ Here are some ideas to get you started:
 I am [Valentin Padurean](https://purecore.ro) (nicknamed "Ogg") from Brasov, Romania.
 
 - I am currently working (since mid-October 2021) as a [Go](https://golang.org) developer (backend) for
-  - [x] an online management system for steering📊 and optimizing waste burning plants🏭 throughput and emissions♻️
-  - [x] an online booking🛒 system which allows end users to book appointments at a car🚙 repair🛠️ workshop 
+  - [x] an online management system for steering and optimizing 📊 waste burning plants 🏭 throughput and emissions ♻️
+  - [x] an online booking🛒 system which allows end users to book appointments at a car repair workshop 🚙🛠️
 - Before this I worked as a [Go](https://golang.org) develper on these projects:
   - [x] [immudb](https://github.com/codenotary/immudb) - a lightweight, high-speed immutable database for systems and applications
   - [x] [CodeNotary Immutable Ledgers®](https://codenotary.com) - an easy to use tamperproof ledger with cryptographic verification, processing millions of transactions a second on-premise or in the cloud
